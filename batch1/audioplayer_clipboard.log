@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/home/max/Music/youtubedl/myproject/batch1/audioplayer_clipboard_daemon.py", line 251, in <module>
+    main()
+  File "/home/max/Music/youtubedl/myproject/batch1/audioplayer_clipboard_daemon.py", line 247, in main
+    run_daemon()
+  File "/home/max/Music/youtubedl/myproject/batch1/audioplayer_clipboard_daemon.py", line 206, in run_daemon
+    notify(
+    ^^^^^^
+NameError: name 'notify' is not defined
+Traceback (most recent call last):
+  File "/home/max/Music/youtubedl/myproject/batch1/audioplayer_clipboard_daemon.py", line 262, in <module>
+    main()
+  File "/home/max/Music/youtubedl/myproject/batch1/audioplayer_clipboard_daemon.py", line 258, in main
+    run_daemon()
+  File "/home/max/Music/youtubedl/myproject/batch1/audioplayer_clipboard_daemon.py", line 217, in run_daemon
+    notify(
+    ^^^^^^
+NameError: name 'notify' is not defined

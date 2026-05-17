@@ -1,0 +1,173 @@
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Aaron%20Smith%20-%20Dancin%20(KRONO%20Remix)%20%5BguBJAd50sT0%5D.mp3"
+/audioplayer apply ID "Aaron Smith - Dancin"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/All%20My%20Friends%20%5BvVEZNvqecdE%5D.mp3"
+/audioplayer apply ID "All My Friends"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Belle%20and%20Sebastian%20-%20Piazza%2C%20New%20York%20Catcher%20(Juno%20Soundtrack)%20%5ByaxaN0nmy9g%5D.mp3"
+/audioplayer apply ID "Belle and Sebastian - Piazza, New York Catcher"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/CAKE%20-%20Frank%20Sinatra%20(Official%20Audio)%20%5BrWonYwd5oL8%5D.mp3"
+/audioplayer apply ID "CAKE - Frank Sinatra"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Cat%20Power%20-%20Sea%20of%20Love%20(Juno%20Soundtrack)%20%5B6Id8DIrhWVs%5D.mp3"
+/audioplayer apply ID "Cat Power - Sea of Love"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Chappell%20Roan%20-%20My%20Kink%20is%20Karma%20(Official%20Music%20Video)%20%5BePsqyPMIg6I%5D.mp3"
+/audioplayer apply ID "Chappell Roan - My Kink is Karma"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Concrete%20%5BIyUDkMHDS4s%5D.mp3"
+/audioplayer apply ID "Concrete"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Crystal%20Waters%20-%20Gypsy%20Woman%20(She%27s%20Homeless)%20(Official%20Music%20Video)%20%5B_KztNIg4cvE%5D.mp3"
+/audioplayer apply ID "Crystal Waters - Gypsy Woman"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/D%27Banj%20-%20Oliver%20Twist%20Official%20Video%20-%20%20HD.%20%5BEUYNnVgkAag%5D.mp3"
+/audioplayer apply ID "D'Banj - Oliver Twist Official Video -  HD."
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Darude%20-%20Sandstorm%20%5By6120QOlsfU%5D.mp3"
+/audioplayer apply ID "Darude - Sandstorm"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Deerhunter%20-%20Intro%E2%A7%B8Agoraphobia%20%5Bmghs9x7juCc%5D.mp3"
+/audioplayer apply ID "Deerhunter - Intro⧸Agoraphobia"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Dirty%20Work%20%5BkR5Ki6jjPaY%5D.mp3"
+/audioplayer apply ID "Dirty Work"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Eiffel%2065%20-%20Blue%20(Da%20Ba%20Dee)%201998%20Official%20Music%20Video%20(Remastered)%20HD%20%5B4iwHb189X84%5D.mp3"
+/audioplayer apply ID "Eiffel 65 - Blue"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Fill%20The%20Crown%20%5BF2zh3d5tJNI%5D.mp3"
+/audioplayer apply ID "Fill The Crown"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Frank%20Zappa%20-%20Bobby%20Brown%20Goes%20Down%20(Visualizer)%20%5BSXi_zoW-Wr4%5D.mp3"
+/audioplayer apply ID "Frank Zappa - Bobby Brown Goes Down"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Frank%20Zappa%20-%20Don%27t%20Eat%20The%20Yellow%20Snow%20(Visualizer)%20%5BIobtCDkJKDc%5D.mp3"
+/audioplayer apply ID "Frank Zappa - Don't Eat The Yellow Snow"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Girls%20In%20Bikinis%20%5B6JgG8fZAlu0%5D.mp3"
+/audioplayer apply ID "Girls In Bikinis"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/I%20Hear%20You%20Knocking%20%5BhMjwb13TFCo%5D.mp3"
+/audioplayer apply ID "I Hear You Knocking"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/I%20Want%20It%20Now%E2%A7%B8Oompa-Loompa%20(From%20%EF%BC%82Willy%20Wonka%20%26%20The%20Chocolate%20Factory%EF%BC%82%20Soundtrack)%20%5Bhj0jgD6NPFU%5D.mp3"
+/audioplayer apply ID "I Want It Now⧸Oompa-Loompa"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/I%27m%20Sticking%20With%20You%20%5B1PreKtsgoUM%5D.mp3"
+/audioplayer apply ID "I'm Sticking With You"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/John%20Prine%20-%20In%20Spite%20of%20Ourselves%20-%20In%20Spite%20of%20Ourselves%20%5BgA-vD5pyuS4%5D.mp3"
+/audioplayer apply ID "John Prine - In Spite of Ourselves - In Spite of Ourselves"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Justice%20-%20D.A.N.C.E.%20-%20%E2%80%A0%20(Official%20Audio)%20%5BtCnBrrnOefs%5D.mp3"
+/audioplayer apply ID "Justice - D.A.N.C.E. - †"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Justice%20-%20Genesis%20-%20%E2%80%A0%20(Official%20Audio)%20%5BVKzWLUQizz8%5D.mp3"
+/audioplayer apply ID "Justice - Genesis - †"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Justice%20-%20Phantom%20Pt%20II%20-%20%E2%80%A0%20(Official%20Audio)%20%5B5QCBkwmsOk0%5D.mp3"
+/audioplayer apply ID "Justice - Phantom Pt II - †"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Justice%20-%20TThhEe%20PPaARRtTYY%20-%20%E2%80%A0%20(Official%20Audio)%20%5BOsCu-Wg02Fg%5D.mp3"
+/audioplayer apply ID "Justice - TThhEe PPaARRtTYY - †"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Karma%20Police%20%5B4IJI6soiQhI%5D.mp3"
+/audioplayer apply ID "Karma Police"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Kimya%20Dawson%20%26%20Antsy%20Pants%20-%20Tree%20Hugger%20(Juno%20Soundtrack)%20%5BqmIOkfFssZs%5D.mp3"
+/audioplayer apply ID "Kimya Dawson & Antsy Pants - Tree Hugger"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Little%20Person%20%5BFXL8sbalC8I%5D.mp3"
+/audioplayer apply ID "Little Person"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Lux%20Aeterna%20%5Boc3Cq89P97Y%5D.mp3"
+/audioplayer apply ID "Lux Aeterna"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Mitch%20Miller%20-%20Battle%20Hymn%20of%20The%20Republic%20(HD)%20%5BFMbEqet-Fm8%5D.mp3"
+/audioplayer apply ID "Mitch Miller - Battle Hymn of The Republic"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Money%20%5B5jVW0lPjOOM%5D.mp3"
+/audioplayer apply ID "Money"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Mott%20The%20Hoople%20-%20All%20The%20Young%20Dudes%20(Juno%20Soundtrack)%20%5BIniCdFqjchM%5D.mp3"
+/audioplayer apply ID "Mott The Hoople - All The Young Dudes"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Music%20for%20a%20Large%20Ensemble%20%5B3VM8QpN05H0%5D.mp3"
+/audioplayer apply ID "Music for a Large Ensemble"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/My%20Bloody%20Valentine%20-%20Only%20Shallow%20(Official%20Music%20Video)%20%5BFyYMzEplnfU%5D.mp3"
+/audioplayer apply ID "My Bloody Valentine - Only Shallow"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/My%20Bloody%20Valentine%20-%20When%20You%20Sleep%20%5BHzRJUMNdVsg%5D.mp3"
+/audioplayer apply ID "My Bloody Valentine - When You Sleep"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Naked%20-%201993%20Movie%20Soundtrack%20-%20%20Andrew%20Dickson%20%5BCcBIetAjxDo%5D.mp3"
+/audioplayer apply ID "Naked - 1993 Movie Soundtrack -  Andrew Dickson"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Nightcore%20%EF%BD%9C%20Sweet%20Little%20Bumblebee%20(lyric%20video)%20%5Bz3OKd5b2Rlw%5D.mp3"
+/audioplayer apply ID "Nightcore ｜ Sweet Little Bumblebee"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Noisestorm%20-%20Crab%20Rave%20%5BMonstercat%20Release%5D%20%5BLDU_Txk06tM%5D.mp3"
+/audioplayer apply ID "Noisestorm - Crab Rave"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Only%20in%20My%20Dreams%20%5BHnXzzTIFu_U%5D.mp3"
+/audioplayer apply ID "Only in My Dreams"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Peaches%20En%20Regalia%20%5BHFQKP3Ehucg%5D.mp3"
+/audioplayer apply ID "Peaches En Regalia"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Poppy%20-%20Time%20Is%20Up%20(feat.%20Diplo)%20%5BOfficial%20Music%20Video%5D%20%5Bgg2pS9KN28U%5D.mp3"
+/audioplayer apply ID "Poppy - Time Is Up"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Slayyyter%20-%20BEAT%20UP%20CHANEL%24%20(Official%20Video)%20%5BhhvW8qB-W3M%5D.mp3"
+/audioplayer apply ID "Slayyyter - BEAT UP CHANEL$"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Steely%20Dan%20-%20Do%20It%20Again%20%5BaQnW-MxAU6U%5D.mp3"
+/audioplayer apply ID "Steely Dan - Do It Again"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Steely%20Dan%20-%20Reelin%27%20in%20the%20Years%20%5B4dPRGfGmCmU%5D.mp3"
+/audioplayer apply ID "Steely Dan - Reelin' in the Years"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Tears%20For%20Fears%20-%20Head%20Over%20Heels%20%5BCsHiG-43Fzg%5D.mp3"
+/audioplayer apply ID "Tears For Fears - Head Over Heels"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/That%20Poppy%20-%20Lowlife%20%5BlwnoSeiAFSY%5D.mp3"
+/audioplayer apply ID "That Poppy - Lowlife"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/The%20Killing%20Moon%20%5B8fjSeUn_WDE%5D.mp3"
+/audioplayer apply ID "The Killing Moon"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/The%20Kinks%20-%20A%20Well%20Respected%20Man%20(Official%20Audio)%20%5BN8LFXEfbxdw%5D.mp3"
+/audioplayer apply ID "The Kinks - A Well Respected Man"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/The%20Moldy%20Peaches%20-%20Anyone%20Else%20But%20You%20%20(Juno%20Soundtrack)%20%5BceV62E-c86g%5D.mp3"
+/audioplayer apply ID "The Moldy Peaches - Anyone Else But You"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/The%20Velvet%20Underground%20-%20I%27m%20Sticking%20With%20You%20(Juno%20Soundtrack)%20%5BTuV3ElYHYe4%5D.mp3"
+/audioplayer apply ID "The Velvet Underground - I'm Sticking With You"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Tove%20Lo%20-%20Habits%20(Stay%20High)%20%5Boh2LWWORoiM%5D.mp3"
+/audioplayer apply ID "Tove Lo - Habits"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Veruca%20Salt%20%5B_v44mYzFKsA%5D.mp3"
+/audioplayer apply ID "Veruca Salt"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/Xavi%2C%20Manuel%20Turizo%20-%20En%20Privado%20(Letra%E2%A7%B8Lyrics)%20%5BAdzcfoG1Nag%5D.mp3"
+/audioplayer apply ID "Xavi, Manuel Turizo - En Privado"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/%5BHD%5D%20%EF%BC%82What%20What%20(In%20the%20Butt)%EF%BC%82%20in%20HD%20%21%21%21%20%5BXKE3dIrRIbg%5D.mp3"
+/audioplayer apply ID ""
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/bj%C3%B6rk%20%EF%BC%9A%20human%20behaviour%20(HD)%20%5Bp0mRIhK9seg%5D.mp3"
+/audioplayer apply ID "björk ： human behaviour"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/%E0%A4%AC%E0%A4%9C%E0%A4%B0%E0%A4%81%E0%A4%97%20%E0%A4%AC%E0%A4%BE%E0%A4%A3%2C%20Bajrang%20Baan%20%EF%BD%9C%20HARIHARAN%20I%20Full%20HD%20%EF%BD%9C%20Hanuman%20Janmotsav%20Special%20%EF%BD%9C%20Shree%20Hanuman%20Chalisa%20%5Bh1lT6cxwsPw%5D.mp3"
+/audioplayer apply ID "बजरँग बाण, Bajrang Baan ｜ HARIHARAN I Full HD ｜ Hanuman Janmotsav Special ｜ Shree Hanuman Chalisa"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/%E0%A4%AC%E0%A4%9C%E0%A4%B0%E0%A4%82%E0%A4%97%20%E0%A4%AC%E0%A4%BE%E0%A4%A3%20Bajrang%20Baan%20Lata%20Mangeshkar%20I%20Shri%20Hanuman%20Chalisa%20I%20Full%20Video%20Song%20%5B0DvM8l55GVw%5D.mp3"
+/audioplayer apply ID "बजरंग बाण Bajrang Baan Lata Mangeshkar I Shri Hanuman Chalisa I Full Video Song"
+
+/audioplayer url "https://raw.githubusercontent.com/folkersm/mcmuse/main/batch1/%EF%BC%82The%20Sound%20of%20Music%EF%BC%82%20-%20The%20Sound%20of%20Music%20(1965)%20%5B6f0T6UV-HiI%5D.mp3"
+/audioplayer apply ID "＂The Sound of Music＂ - The Sound of Music"
