@@ -16,3 +16,28 @@ Traceback (most recent call last):
     notify(
     ^^^^^^
 NameError: name 'notify' is not defined
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/home/max/Music/youtubedl/myproject/batch1/.venv-clipboard/lib/python3.12/site-packages/Xlib/protocol/display.py", line 583, in send_and_recv
+    i = self.socket.send(self.data_send)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/home/max/Music/youtubedl/myproject/batch1/.venv-clipboard/lib/python3.12/site-packages/pynput/_util/__init__.py", line 216, in run
+    self._run()
+  File "/home/max/Music/youtubedl/myproject/batch1/.venv-clipboard/lib/python3.12/site-packages/pynput/keyboard/_xorg.py", line 565, in _run
+    super(Listener, self)._run()
+  File "/home/max/Music/youtubedl/myproject/batch1/.venv-clipboard/lib/python3.12/site-packages/pynput/_util/xorg.py", line 439, in _run
+    self._display_stop.flush()
+  File "/home/max/Music/youtubedl/myproject/batch1/.venv-clipboard/lib/python3.12/site-packages/Xlib/display.py", line 174, in flush
+    self.display.flush()
+  File "/home/max/Music/youtubedl/myproject/batch1/.venv-clipboard/lib/python3.12/site-packages/Xlib/protocol/display.py", line 255, in flush
+    self.send_and_recv(flush = True)
+  File "/home/max/Music/youtubedl/myproject/batch1/.venv-clipboard/lib/python3.12/site-packages/Xlib/protocol/display.py", line 586, in send_and_recv
+    raise self.socket_error
+Xlib.error.ConnectionClosedError: Display connection closed by server: [Errno 32] Broken pipe
